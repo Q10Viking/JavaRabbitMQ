@@ -1,0 +1,11 @@
+<component name="ArtifactManager">
+  <artifact type="jar" name="JavaRabbitMQ:jar">
+    <output-path>$PROJECT_DIR$/out/artifacts/JavaRabbitMQ_jar</output-path>
+    <root id="archive" name="JavaRabbitMQ.jar">
+      <element id="module-output" name="JavaRabbitMQ" />
+      <element id="extracted-dir" path="$USER_HOME$/Downloads/slf4j-simple-1.7.26.jar" path-in-jar="/" />
+      <element id="extracted-dir" path="$USER_HOME$/Downloads/slf4j-api-1.7.26.jar" path-in-jar="/" />
+      <element id="extracted-dir" path="$USER_HOME$/Downloads/amqp-client-5.7.1.jar" path-in-jar="/" />
+    </root>
+  </artifact>
+</component>
